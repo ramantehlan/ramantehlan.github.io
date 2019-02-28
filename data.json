@@ -3,7 +3,7 @@
     "author": "Raman Tehlan",
     "title": "Official Page of Raman Tehlan | Hello World!",
     "keywords": "Raman Tehlan ramantehlan Programmer Developer Designer Entrepreneur Resume CV.",
-    "description": "Welcome to the official page of Raman Tehlan, here you can get all the information about him and have a close look at his vision for this world.",
+    "description": "Welcome to my tiny space on the internet,",
     "language": "English",
     "charset": "utf-8",
     "robots": "INDEX , FOLLOW",
@@ -89,7 +89,7 @@
   }],
   "about": {
     "title": "Hello There!",
-    "body": "I'm Raman Tehlan, Welcome to my tiny space on the internet, here I share about my work, life and everything in between. If you want to know more about me, feel free to use the above menu and checkout out more about me.",
+    "body": "Welcome to my tiny space on the internet, here I share about my work, life and everything in between. If you are just interested in my career, feel free to use the above menu and check out more. To know me more personally you can look at my blog and read the passage given below. <Br><BR> I'm Raman Tehlan, I was first introduced to programming at an age of 11.  The first language I used was BASIC, I used it for calculation and to solve simple math problems. By the age of 14, I was comfortable in programming in multiple languages, like C++, BASIC, PHP, JavaScript etc. At 17, I started my first company (<a href='https://github.com/ramantehlan/AlvisAI'>AlvisAi</a>) and at 19, I started my second company (<a href='https://github.com/ramantehlan/Cashfog'>Cashfog</a>), both are open source now. I love to attend hackathons and startup weekends and create new projects. Most of my projects are open source since I am also a FOSS enthusiast, I have contributed to many projects. Right now, I am learning new stuff, also looking for new opportunities to apply them in the real world. <br><br> I see my life as a tool to improve the lives of souls around me, trying to leave something behind. I use technology as my power to achieve that. ",
     "signature": "Regards <br> <b>Raman Tehlan</b>"
   },
   "profile": {
