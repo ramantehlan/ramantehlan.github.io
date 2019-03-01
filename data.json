@@ -3,7 +3,7 @@
     "author": "Raman Tehlan",
     "title": "Official Page of Raman Tehlan | Hello World!",
     "keywords": "Raman Tehlan ramantehlan Programmer Developer Designer Entrepreneur Resume CV.",
-    "description": "Welcome to my tiny space on the internet,",
+    "description": "Welcome to my tiny space on the internet, here I share about my work, life and everything in between.",
     "language": "English",
     "charset": "utf-8",
     "robots": "INDEX , FOLLOW",
@@ -195,8 +195,34 @@
     "about": "I was responsible for branding and online presence, also for creating formats of various documents like ledgers, purchase order etc.<ul><li> Created ledgers in Excel sheets to decrease the use of paper. </li><li> Worked on company 's website and displayed business on the Google search.</li><li> Created formats for various documents like purchase orders,quotations etc.</li></ul>"
   }],
   "projects": [{
-      "id": 11,
-      "key": "pr11",
+      "id": 17,
+      "key": "pr17",
+      "title": "Moi",
+      "url": "https://github.com/ramantehlan/Moi",      
+      "productType": "Webapp",
+      "timeline": "26/01/2019",
+      "tag": [
+        "Vue.js",
+        "JQuery",
+        "Personal Site template"
+      ],
+      "about": "Moi is a single-page personal site template created to reduce the trouble of designing, developing and maintaining your own personal site while keeping it light, customizable and simple. It is free and opensource, so you still have the freedom to add your own changes and features. <Br><Br> Moe is responsive and SEO friendly, with multiple themes. It uses a single JSON file to fetch data and render it, which makes it extremely simple to make changes and control the overall performance."
+    },{
+      "id": 16,
+      "key": "pr16",
+      "title": "Genetic-Rat-Ai",
+      "url": "https://github.com/ramantehlan/Genetic-Rat-Ai",      
+      "productType": "Webapp",
+      "timeline": "14/01/2019",
+      "tag": [
+        "Genetics",
+        "Genetic-programming",
+        "AI"
+      ],
+      "about": "Using Genetic-programming to teach a mouse to find his way to the cheese."
+    },{
+      "id": 15,
+      "key": "pr15",
       "title": "suraksha",
       "url": "https://github.com/yogdaan/suraksha",
       "event": "NASA International Space App Challenge Final - 2018, 91Spring Board, Noida",
@@ -208,10 +234,23 @@
         "Accident detection",
         "Optical Flow Analys"
       ],
-      "about": ""
-    }, {
-      "id": 10,
-      "key": "pr10",
+      "about": "Suraksha is meant to analyze and display data to improve public understanding of our home planet to be safe."
+    },{
+      "id": 14,
+      "key": "pr14",
+      "title": "NPM-101",
+      "url": "https://github.com/ramantehlan/NPM-101",
+      "productType": "NPM Package",
+      "timeline": "22/9/2018",
+      "tag": [
+        "NPM Package",
+        "Tutorial",
+        "101"
+      ],
+      "about": "NPM-101: Get started with NPM packaging. This is a tutorial repo, to create your own NPM package using TypeScript."
+    } ,{
+      "id": 13,
+      "key": "pr13",
       "title": "LegalAI",
       "url": "https://github.com/ramantehlan/Supernova",
       "event": "Techstars Startup Weekend, Delhi Technological University, Delhi",
@@ -225,8 +264,8 @@
       ],
       "about": "Platform for lawyers and legal firms to leverage ML/NLP to identify, extract, and analyze litigation cases, and manage them privately on cloud."
     }, {
-      "id": 9,
-      "key": "pr9",
+      "id": 12,
+      "key": "pr12",
       "title": "Supernova",
       "url": "https://github.com/ramantehlan/Supernova",
       "event": "NASA International Space App Challenge Pre-Hackathon - 2018, Rohini, Delhi",
@@ -240,14 +279,41 @@
         "Optical Flow Analysis"
       ],
       "about": "Smart AI to keep people safe on beaches from all the dangers. It uses ML and real time data to inform people about UV Index, Weather forecasts, Tsunamis, Harmful Algal Blooms (HABs), Animal Attacks and RIP currents(Using Optical Flow Analysis) etc, all through just one app. <ul >  <li> Using current location fetch all the environmental factors, like UV Index, Pressure, Air Quality. </li> <li > Camera can take a short video of ocean to do Optical Flow Analysis, to detect RIP Currents. </li></ul>"
+    },{
+      "id": 11,
+      "key": "pr11",
+      "title": "GateOfShell",
+      "url": "https://github.com/ramantehlan/GateOfShell",
+      "productType": "Shell",
+      "timeline": "30/07/2018",
+      "tag": [
+        "Shell",
+        "Tutorial"
+      ],
+      "about": "GateOfShell is a Shell Scripting / Bourne Shell Programming Tutorial for Beginners. Taught with a perfect mix of theory and examples, which will help people understand and learn some of the basics of it."
+    
     },
     {
-      "id": 8,
-      "key": "pr8",
+      "id": 10,
+      "key": "pr10",
+      "title": "HeroOfAngular",
+      "url": "https://github.com/ramantehlan/HeroOfAngular",
+      "productType": "Angular App",
+      "timeline": "05/07/2018",
+      "tag": [
+        "Angular",
+        "Typescript",
+        "Tutorial"
+      ],
+      "about": "HeroOfAngular is a upgraded version of tutorial(Tour of Heroes) created by Angular to teach fundamentals. You can read more about the same in the Angular Guide[v5 (v5.2.11)]."
+    },
+    {
+      "id": 9,
+      "key": "pr9",
       "title": "JTLog",
       "url": "https://github.com/ramantehlan/JTLog",
       "productType": "NPM Module/Package",
-      "timeline": "14/06/2018 - 28/08/2018",
+      "timeline": "14/06/2018",
       "tag": [
         "600+ Downloads/First Month",
         "Typescript",
@@ -257,8 +323,8 @@
       "about": "JavascriptTypescriptLog (JTLog) is Log library. <ul><li>Record/Store console logs for a particular session, return it in an array.</li><li>2 Modes for development and production (Won't be visible to users).</li><li>Switch between consoling and recording, or choose both.</li></ul>"
     },
     {
-      "id": 7,
-      "key": "pr7",
+      "id": 8,
+      "key": "pr8",
       "title": "Finojo",
       "url": "https://github.com/ramantehlan/Finojo",
       "event": "Hackathon - HACKRUPT, NSIT, Delhi",
@@ -267,6 +333,19 @@
       "timeline": "03/02/2018 - 04/02/2018",
       "tag": ["Top 10 Finalist", "NodeJS", "IPFS"],
       "about": "Finojo is a decentralized tracking application of financial assets. It uses IPFS and Blockchain to allow corporate users to store there user files, documents, contracts, records etc on a decentralized network. Each Corporation and the user is provided with a unique finojo code, this code is used as a digital stamp for generating financial assets, later this code can be used to retrieve any file from the decentralized network."
+    },{
+      "id": 7,
+      "key": "pr7",
+      "title": "DataStructures-CPP",
+      "url": "https://github.com/ramantehlan/DataStructures-CPP",
+      "productType": "Terminal Application",
+      "timeline": "18-01-2018",
+      "tag": [
+        "C++",
+        "Data Structures",
+        "Algorithms"
+      ],
+      "about": "DataStructures-CPP is an application to implement data structures and algorithms in C++ using a menu-driven interface.<ul><li> Created Source file for all the popular data structures. </li> <li> Neat application structure for beginners and professionals to understand. </li> <li> The program can be easily converted into other programming languages. </li></ul>"
     },
     {
       "id": 6,
@@ -283,23 +362,10 @@
       ],
       "about": "Spero is an open source decentralized job marketplace for refugees, asylums, NGOs and governments. we leverage blockchain and artificial intelligence to connected about 65.6 million refugees to jobs around the world. This project was created in December 2017 for the biggest Global Virtual GovHack hackathon organized by UAE Government in 2017."
     },
+    
     {
       "id": 5,
       "key": "pr5",
-      "title": "Genetic-Tetris-Ai",
-      "url": "https://github.com/ramantehlan/Genetic-Tetris-Ai",
-      "productType": "Webapp",
-      "timeline": "Ongoing",
-      "tag": [
-        "JavaScript",
-        "Genetic Algorithms",
-        "AI"
-      ],
-      "about": "An implementation of Genetic Algorithms to create evolving/mutating AI to play Tetris. Genetic Algorithms follow the principles first laid down by Charles Darwin of 'survival of the fittest.' <ul><li>It uses matrix to create the game of Tetris.</li><li>Multiple speeds and ranking system for gameplay.</li><li>Simple yet beautiful UI / UX with user driven actions.</li></ul>"
-    },
-    {
-      "id": 4,
-      "key": "pr4",
       "title": "Celer",
       "url": "https://github.com/ramantehlan/Celer",
       "event": "Techstars Startup Weekend, Delhi Technological University, Delhi, India",
@@ -312,24 +378,24 @@
         "Heroku"
       ],
       "about": "Celer helps businesses to distribute their processing across the devices connected to the Internet. <ul><li> Web app to get the processing from business users and API for app developers to integrate in there app. </li> <li> API use 20 % -30 % of total available processing power. </li> <li> Web app for app developers to see the processing they provided from there user base and get compensated for it(They are asked to remove ads or make there app freemium if they earn above a certain limit from us.) </li></ul>"
+    },{
+      "id": 4,
+      "key": "pr4",
+      "title": "Genetic-Tetris-Ai",
+      "url": "https://github.com/ramantehlan/Genetic-Tetris-Ai",
+      "productType": "Webapp",
+      "timeline": "29-08-2017",
+      "tag": [
+        "JavaScript",
+        "Genetic Algorithms",
+        "AI"
+      ],
+      "about": "An implementation of Genetic Algorithms to create evolving/mutating AI to play Tetris. Genetic Algorithms follow the principles first laid down by Charles Darwin of 'survival of the fittest.' <ul><li>It uses matrix to create the game of Tetris.</li><li>Multiple speeds and ranking system for gameplay.</li><li>Simple yet beautiful UI / UX with user driven actions.</li></ul>"
     },
+    
     {
       "id": 3,
       "key": "pr3",
-      "title": "DataStructures-CPP",
-      "url": "https://github.com/ramantehlan/DataStructures-CPP",
-      "productType": "Terminal Application",
-      "timeline": "Ongoing",
-      "tag": [
-        "C++",
-        "Data Structures",
-        "Algorithms"
-      ],
-      "about": "DataStructures-CPP is an application to implement data structures and algorithms in C++ using a menu-driven interface.<ul><li> Created Source file for all the popular data structures. </li> <li> Neat application structure for beginners and professionals to understand. </li> <li> The program can be easily converted into other programming languages. </li></ul>"
-    },
-    {
-      "id": 2,
-      "key": "pr2",
       "title": "Alexandrite",
       "url": "https://github.com/ramantehlan/Alexandrite",
       "productType": "Android App",
@@ -342,8 +408,8 @@
       "about": "Alexandrite is an android app, which saves data on a device, whether it's temporary files, downloaded app assets, user media, structured data, or something else .<ul><li> Worked on data storage provided by a device on Android. </li> <li> Automated multiple processes. </li> <li> Beautiful UI / UX with a smooth design. </li></ul>"
     },
     {
-      "id": 1,
-      "key": "pr1",
+      "id": 2,
+      "key": "pr2",
       "title": "Optimus",
       "url": "https://github.com/ramantehlan/Optimus",
       "event": "AbinBev Hackathon, Bengaluru, India",
@@ -356,6 +422,19 @@
         "Image Processing"
       ],
       "about": "Optimus helps businesses visualise their data and get better insights into the factors which are driving sales. <ul >  <li> Platform to collect data from all over the world to process in real time. </li> <li > Focused on key factors like when to advertise more, which brand need more focused or which item to produce more and when. </li> <li > Great visualization tools for all the data. </li></ul>"
+    },
+    {
+      "id": 1,
+      "key": "pr1",
+      "title": "Archive-Projects",
+      "url": "https://github.com/ramantehlan/Archive-Projects",
+      "productType": "Applications",
+      "timeline": "2014 - 2016",
+      "tag": [
+        "Archive",
+        "Old Projects"      
+      ],
+      "about": "Just an archive of multiple old projects."
     }
   ],
   "achievements": [{
