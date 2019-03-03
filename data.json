@@ -825,6 +825,11 @@
     "title": "spotify/user/dwciskg3wo1c3owwgehc0jktm",
     "url": "https://open.spotify.com/user/dwciskg3wo1c3owwgehc0jktm",
     "icon": "fab fa-spotify"
+  },{
+    "key": "li20",
+    "title": "kaggle/ramantehlan",
+    "url": "https://www.kaggle.com/ramantehlan",
+    "icon": "fab fa-kaggle"
   }],
   "skills": {
     "color": ["#e67e22;", "#4288d0;", "#035E7B", "#525252;", "#E5128D;", "#2ecc71;", "#3498db;", "#4288d0;"],
