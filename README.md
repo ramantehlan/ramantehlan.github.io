@@ -1,5 +1,23 @@
 # Moi
-A simple, light and highly customizable personal site template. [Example](https://ramantehlan.github.io)
+A simple, light and highly customizable personal site template.
+
+# Screen-shot
+
+<p>
+
+
+<img src="https://raw.githubusercontent.com/ramantehlan/Moi/master/assets/img/ss/img4.png" width="430">
+<img src="https://raw.githubusercontent.com/ramantehlan/Moi/master/assets/img/ss/img5.png" width="430">
+<img src="https://raw.githubusercontent.com/ramantehlan/Moi/master/assets/img/ss/img6.png" width="430">
+<img src="https://raw.githubusercontent.com/ramantehlan/Moi/master/assets/img/ss/img7.png" width="430">
+<img src="https://raw.githubusercontent.com/ramantehlan/Moi/master/assets/img/ss/img9.png" width="430">
+<img src="https://raw.githubusercontent.com/ramantehlan/Moi/master/assets/img/ss/img10.png" width="430">
+
+<img src="https://raw.githubusercontent.com/ramantehlan/Moi/master/assets/img/ss/img1.png" width="430">
+<img src="https://raw.githubusercontent.com/ramantehlan/Moi/master/assets/img/ss/img3.png" width="430">
+</p>
+
+ [Live Example](https://ramantehlan.github.io)
 
 # Index
 
@@ -18,7 +36,7 @@ A simple, light and highly customizable personal site template. [Example](https:
 ## About
 Moi is a single-page personal site template created to reduce the trouble of designing, developing and maintaining your own personal site while keeping it light, customizable and simple. It is free and opensource, so you still have the freedom to add your own changes and features.
 
-Moe is responsive and SEO friendly, with multiple themes. It uses a single JSON file to fetch data and render it, which makes it extremely simple to make changes and control the overall performance.
+Moe is responsive and SEO friendly, with multiple themes. It uses a single JSON file to fetch data and render it, which makes it extremely simple to make changes and control the overall performance. 
 
 > Moi means "me" in french.
 
