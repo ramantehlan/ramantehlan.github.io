@@ -26,6 +26,7 @@ A simple, light and highly customizable personal site template.
 	- [About Themes](#about-themes)
 	- [Json Design](#json-design)
 	- [Adding A New Section](#adding-a-new-section)
+	- [SEO]()
 3. [Development](#development)
  	- [Requirement](#requirement)
 	- [Installation](#installation)
@@ -141,6 +142,10 @@ To add a new section, steps are given below.
 		}]
 	...
 ```
+
+### SEO
+
+Add things to site.xml
 
 ## Development
 

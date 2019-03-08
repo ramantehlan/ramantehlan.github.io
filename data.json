@@ -198,11 +198,11 @@
       "id": 17,
       "key": "pr17",
       "title": "Moi",
-      "url": "https://github.com/ramantehlan/Moi",      
+      "url": "https://github.com/ramantehlan/Moi",
       "productType": "Webapp",
       "timeline": "26/01/2019",
       "tag": [
-        "Vue.js",
+        "Vuejs",
         "JQuery",
         "Personal Site template"
       ],
@@ -211,7 +211,7 @@
       "id": 16,
       "key": "pr16",
       "title": "Genetic-Rat-Ai",
-      "url": "https://github.com/ramantehlan/Genetic-Rat-Ai",      
+      "url": "https://github.com/ramantehlan/Genetic-Rat-Ai",
       "productType": "Webapp",
       "timeline": "14/01/2019",
       "tag": [
@@ -291,7 +291,7 @@
         "Tutorial"
       ],
       "about": "GateOfShell is a Shell Scripting / Bourne Shell Programming Tutorial for Beginners. Taught with a perfect mix of theory and examples, which will help people understand and learn some of the basics of it."
-    
+
     },
     {
       "id": 10,
@@ -362,7 +362,7 @@
       ],
       "about": "Spero is an open source decentralized job marketplace for refugees, asylums, NGOs and governments. we leverage blockchain and artificial intelligence to connected about 65.6 million refugees to jobs around the world. This project was created in December 2017 for the biggest Global Virtual GovHack hackathon organized by UAE Government in 2017."
     },
-    
+
     {
       "id": 5,
       "key": "pr5",
@@ -392,7 +392,7 @@
       ],
       "about": "An implementation of Genetic Algorithms to create evolving/mutating AI to play Tetris. Genetic Algorithms follow the principles first laid down by Charles Darwin of 'survival of the fittest.' <ul><li>It uses matrix to create the game of Tetris.</li><li>Multiple speeds and ranking system for gameplay.</li><li>Simple yet beautiful UI / UX with user driven actions.</li></ul>"
     },
-    
+
     {
       "id": 3,
       "key": "pr3",
@@ -432,7 +432,7 @@
       "timeline": "2014 - 2016",
       "tag": [
         "Archive",
-        "Old Projects"      
+        "Old Projects"
       ],
       "about": "Just an archive of multiple old projects."
     }
@@ -830,6 +830,11 @@
     "title": "kaggle/ramantehlan",
     "url": "https://www.kaggle.com/ramantehlan",
     "icon": "fab fa-kaggle"
+  },{
+    "key": "li21",
+    "title": "codechef/users/ramantehlan",
+    "url": "https://www.codechef.com/users/ramantehlan",
+    "icon": "far fa-circle"
   }],
   "skills": {
     "color": ["#e67e22;", "#4288d0;", "#035E7B", "#525252;", "#E5128D;", "#2ecc71;", "#3498db;", "#4288d0;"],
