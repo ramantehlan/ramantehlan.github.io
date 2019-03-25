@@ -220,6 +220,48 @@
     "about": "I was responsible for branding and online presence, also for creating formats of various documents like ledgers, purchase order etc.<ul><li> Created ledgers in Excel sheets to decrease the use of paper. </li><li> Worked on company 's website and displayed business on the Google search.</li><li> Created formats for various documents like purchase orders,quotations etc.</li></ul>"
   }],
   "projects": [{
+      "id": 20,
+      "key": "pr20",
+      "title": "4x",
+      "url": "https://github.com/ramantehlan/4x/",
+      "productType": "Device",
+      "timeline": "03/2019",
+      "tag": [
+        "Go",
+        "Python",
+        "Orange Pi Zero 256MB",
+        "SDR",
+        "Top 7/30",
+        "Hackathon"
+      ],
+      "about": "A Reliable, Portable and Cheap satellite weather data receiver, which doesn't require internet to work."
+    },{
+      "id": 19,
+      "key": "pr19",
+      "title": "Mateix",
+      "url": "https://github.com/ramantehlan/mateix",
+      "productType": "CLI Tool",
+      "timeline": "03/2019",
+      "tag": [
+        "Go",
+        "Shell",
+        "Linux"
+      ],
+      "about": "A solution to synchronize two folders in two different devices, each folder have a file called data, which needs to be synchronized and it should be bi-directional. "
+    },{
+      "id": 18,
+      "key": "pr18",
+      "title": "DataAvatarGo",
+      "url": "DataAvatarGo",
+      "productType": "CLI Tool",
+      "timeline": "03/2019",
+      "tag": [
+        "Named Entity Recognition (NER)",
+        "GO",
+        "Hackathon"
+      ],
+      "about": "A algorithm to automatically impute values for the redacted portions in a text, which are known to have contained Personal Data Entities (PDEs), then we can protect the PDEs."
+    },{
       "id": 17,
       "key": "pr17",
       "title": "Moi",
@@ -693,6 +735,9 @@
   "contributions": [{
     "title": "Yogdaan/suraksha",
     "url": "https://github.com/yogdaan/suraksha/commits?author=ramantehlan"
+  },{
+    "title": "DirectDemod/ramantehlan",
+    "url": "https://github.com/aerospaceresearch/DirectDemod/commits?author=ramantehlan"
   }, {
     "title": "phpMyAdmin/phpMyAdmin ",
     "url": "https://github.com/phpmyadmin/phpmyadmin/commits?author=ramantehlan"
@@ -860,10 +905,20 @@
     "title": "codechef/users/ramantehlan",
     "url": "https://www.codechef.com/users/ramantehlan",
     "icon": "far fa-circle"
+  },{
+    "key": "li22",
+    "title": "hackster/ramantehlan",
+    "url": "https://www.hackster.io/ramantehlan",
+    "icon": "far fa-circle"
+  },{
+    "key": "li23",
+    "title": "keybase/ramantehlan",
+    "url": "https://keybase.io/ramantehlan",
+    "icon": "far fa-circle"
   }],
   "skills": {
-    "color": ["#e67e22;", "#4288d0;", "#035E7B", "#525252;", "#E5128D;", "#2ecc71;", "#3498db;", "#4288d0;"],
-    "title": ["Frontend", "Backend", "DevOps", "Database", "Frameworks", "Mobile", "Other Software/tools", "Soft Skills"],
+    "color": ["#e67e22;", "#4288d0;", "#035E7B", "#525252;", "#E5128D;", "#2ecc71;", "#3498db;", "#b6c649;" ,"#4288d0;"],
+    "title": ["Frontend", "Backend", "DevOps", "Database", "Framework/Library", "Mobile", "Software/tool", "Hardware" ,"Soft Skills"],
     "data": {
       "0": [{
         "name": "JavaScript",
@@ -881,16 +936,22 @@
         "name": "SASS",
         "percent": "80"
       }, {
-        "name": "JQuery",
-        "percent": "90"
-      }, {
         "name": "XML",
         "percent": "100"
       }, {
         "name": "JSON",
         "percent": "95"
       }],
-      "1": [{
+      "1": [ {
+        "name": "C/C++",
+        "percent": "75"
+      },{
+        "name":"Golang",
+        "percent": "60"
+        },{
+          "name": "Pyton",
+          "percent": "80"
+        },{
         "name": "Java",
         "percent": "85"
       }, {
@@ -899,12 +960,6 @@
       }, {
         "name": "PHP",
         "percent": "90"
-      }, {
-        "name": "Pyton",
-        "percent": "80"
-      }, {
-        "name": "C/C++",
-        "percent": "75"
       }],
       "2": [{
         "name": "Linux",
@@ -929,12 +984,21 @@
       }, {
         "name": "Angular",
         "percent": "40"
-      }],
+      },{
+        "name": "vue",
+        "percent": "40"
+        },{
+          "name": "JQuery",
+          "percent": "90"
+        }],
       "5": [{
         "name": "Android",
         "percent": "20"
       }],
       "6": [{
+        "name": "micro",
+        "percent": "30"
+        },{
         "name": "Vi/Vim",
         "percent": "30"
       }, {
@@ -945,6 +1009,11 @@
         "percent": "50"
       }],
       "7": [{
+          "name": "Raspberry Pi",
+          "percent": "30"
+      }]
+      ,
+      "8": [{
         "name": "Self-Motivated",
         "percent": "100"
       }, {
