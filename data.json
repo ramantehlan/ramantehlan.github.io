@@ -736,10 +736,10 @@
     "title": "Yogdaan/suraksha",
     "url": "https://github.com/yogdaan/suraksha/commits?author=ramantehlan"
   },{
-    "title": "DirectDemod/ramantehlan",
+    "title": "Aerospaceresearch/DirectDemod",
     "url": "https://github.com/aerospaceresearch/DirectDemod/commits?author=ramantehlan"
   }, {
-    "title": "phpMyAdmin/phpMyAdmin ",
+    "title": "PhpMyAdmin/phpMyAdmin ",
     "url": "https://github.com/phpmyadmin/phpmyadmin/commits?author=ramantehlan"
   }, {
     "title": "Fossasia/Meilix",
@@ -751,10 +751,10 @@
     "title": "Yogdaan/LinuxSpells",
     "url": "https://github.com/yogdaan/LinuxSpells/commits?author=ramantehlan"
   }, {
-    "title": "loklak/loklak_artwork",
+    "title": "Loklak/loklak_artwork",
     "url": "https://github.com/loklak/loklak_artwork/commits?author=ramantehlan"
   }, {
-    "title": "chrislgarry/Apollo-11",
+    "title": "Chrislgarry/Apollo-11",
     "url": "https://github.com/chrislgarry/Apollo-11/commits?author=ramantehlan"
   }],
   "communities": [{
@@ -915,7 +915,17 @@
     "title": "keybase/ramantehlan",
     "url": "https://keybase.io/ramantehlan",
     "icon": "far fa-circle"
-  }],
+  },{
+    "key": "li24",
+    "title":"hackerone/ramantehlan",
+    "url": "https://hackerone.com/ramantehlan",
+    "icon": "far fa-circle"
+    },{
+      "key": "li24",
+      "title":"tumblr/ramantehlan",
+      "url": "https://ramantehlan.tumblr.com",
+      "icon": "fab fa-tumblr"
+      }],
   "skills": {
     "color": ["#e67e22;", "#4288d0;", "#035E7B", "#525252;", "#E5128D;", "#2ecc71;", "#3498db;", "#b6c649;" ,"#4288d0;"],
     "title": ["Frontend", "Backend", "DevOps", "Database", "Framework/Library", "Mobile", "Software/tool", "Hardware" ,"Soft Skills"],
