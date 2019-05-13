@@ -145,6 +145,20 @@
     }]
   },
   "work": [{
+    "id":6,
+    "key": "wo6",
+    "companyName": "Timeless ",
+    "companyUrl": "http://timeless.co/",
+    "role":"Software Engineer Intern",
+    "location": "Delhi, India",
+    "timeline": "06/2019 - TBD",
+    "tag": [
+      "Golang",
+      "NodeJS",
+      "Microservices"
+    ],
+    "about": "TBD"
+  },{
     "id": 5,
     "key": "wo5",
     "companyName": "Udacity",
@@ -220,6 +234,55 @@
     "about": "I was responsible for branding and online presence, also for creating formats of various documents like ledgers, purchase order etc.<ul><li> Created ledgers in Excel sheets to decrease the use of paper. </li><li> Worked on company 's website and displayed business on the Google search.</li><li> Created formats for various documents like purchase orders,quotations etc.</li></ul>"
   }],
   "projects": [{
+      "id": 24,
+      "key": "pr24",
+      "title": "Mașină",
+      "url": "#",
+      "productType": "IOT/Dashboard [Private]",
+      "timeline": "05/2019",
+      "tag": [
+        "AWS",
+        "NodeJS",
+        "Orange Pi Zero 256MB"
+      ],
+      "about": "A standalone device to securely read sensors like accelerometer, the gyroscope in real time to detect Insurance frauds."
+    },{
+      "id": 23,
+      "key": "pr23",
+      "title": "ImageManagerAPI",
+      "url": "https://github.com/ramantehlan/ImageManagerAPI",
+      "productType": "API",
+      "timeline": "04/2019",
+      "tag": [
+        "Golang",
+        "API"
+      ],
+      "about": "ImageManagerAPI is a simple and small example of an API for storing images on the server and adding them to the database. It only performs Post and Get so once an image is uploaded, it can't be Deleted or Updated. This API can be controlled from a single config file and it will also log all the activities in a log file."
+    },{
+      "id": 22,
+      "key": "pr22",
+      "title": "GoCheckDeb",
+      "url": "https://github.com/ramantehlan/GoCheckDeb",
+      "productType": "Library/CLI Tool",
+      "timeline": "05/2019",
+      "tag": [
+        "Golang",
+        "Debian"
+      ],
+      "about": "Packaging a Golang package for Debian requires all the Golang dependencies to be already packaged for Debian, so we need to know all the dependencies and sub-dependencies for the Golang project, and then we need to know which out of them is not yet packaged for Debian.<Br><BR>GoCheckDeb is a tool to do the same, it will get all the Golang project dependencies and sub-dependencies and filter out the ones which are not packaged yet. You can also use this tool in your project, you just have to import the gocheckdeb library.<br><Br>Using this tool you can print Graph, Tree or a List of dependencies, plus you have some other minor features to make it better."
+    },{
+      "id": 21,
+      "key": "pr21",
+      "title": "Curie",
+      "url": "#",
+      "productType": "Device/Software [Private]",
+      "timeline": "04/2019",
+      "tag": [
+        "Python",
+        "Hackathon"
+      ],
+      "about": "A Smart wearable device(Not a sports band), which will track and monitor health insights like Heartbeats, Temperature, Blood pressure, Oxygen level and monitor them remotely and track health risks."
+    },{
       "id": 20,
       "key": "pr20",
       "title": "4x",
@@ -920,17 +983,32 @@
     "title":"hackerone/ramantehlan",
     "url": "https://hackerone.com/ramantehlan",
     "icon": "far fa-circle"
-    },{
-      "key": "li24",
-      "title":"tumblr/ramantehlan",
-      "url": "https://ramantehlan.tumblr.com",
-      "icon": "fab fa-tumblr"
-      },{
-      	"key": "li25",
-      	"title": "angel.co/Ramantehlan",
-      	"url": "https://angel.co/Ramantehlan",
-      	"icon": "fab fa-angellist"
-      }],
+  },{
+    "key": "li24",
+    "title":"tumblr/ramantehlan",
+    "url": "https://ramantehlan.tumblr.com",
+    "icon": "fab fa-tumblr"
+  },{
+    "key": "li25",
+    "title": "angel/Ramantehlan",
+    "url": "https://angel.co/Ramantehlan",
+    "icon": "fab fa-angellist"
+  },{
+    "key": "li26",
+    "title": "gitlab/ramantehlan",
+    "url": "https://gitlab.com/ramantehlan",
+    "icon": "fab fa-gitlab"
+  },{
+    "key": "li27",
+    "title": "dev.to/ramantehlan",
+    "url": "https://dev.to/ramantehlan",
+    "icon": "fab fa-dev"
+  },{
+    "key": "li28",
+    "title": "hackathon.io/ramantehlan",
+    "url": "https://www.hackathon.io/ramantehlan",
+    "icon": "far fa-circle"
+  }],
   "skills": {
     "color": ["#e67e22;", "#4288d0;", "#035E7B", "#525252;", "#E5128D;", "#2ecc71;", "#3498db;", "#b6c649;" ,"#4288d0;"],
     "title": ["Frontend", "Backend", "DevOps", "Database", "Framework/Library", "Mobile", "Software/tool", "Hardware" ,"Soft Skills"],
