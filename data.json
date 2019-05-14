@@ -129,8 +129,8 @@
       "label": "Résumé"
     }, {
       "name": "email",
-      "url": "",
-      "icon": "fas fa-paper-plane",
+      "url": "#",
+      "icon": "fas fa-inbox",
       "label": "Ramantehlan[at]gmail"
     }, {
       "name": "github",
