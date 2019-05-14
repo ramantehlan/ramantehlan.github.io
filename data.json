@@ -360,7 +360,7 @@
       "productType": "Android/IOS App",
       "timeline": "19/10/2018 - 21/10/2018",
       "tag": [
-        "3 people team",
+        "4 people team",
         "Accident detection",
         "Optical Flow Analys"
       ],
@@ -382,7 +382,7 @@
       "id": 13,
       "key": "pr13",
       "title": "LegalAI",
-      "url": "https://github.com/ramantehlan/Supernova",
+      "url": "https://github.com/ramantehlan/LegalAI",
       "event": "Techstars Startup Weekend, Delhi Technological University, Delhi",
       "eventUrl": "http://startupweekend.org/",
       "productType": "Webapp",
@@ -568,6 +568,30 @@
     }
   ],
   "achievements": [{
+    "id": 4,
+    "key": "ac4",
+    "title": "3rd  in 64 teams at Techstars Startup Weekend-2018 | LegalAI",
+    "url": "https://github.com/ramantehlan/LegalAI",
+    "location": "Delhi Technological University, Delhi",
+    "timeline": "09/2018",
+    "tag": [
+      "ML/NLP",
+      "7 people team"
+    ],
+    "about": "Platform for lawyers and legal firms to leverage ML/NLP to identify, extract, and analyze litigation cases, and manage them privately on cloud."
+  },{
+    "id": 3,
+    "key": "ac3",
+    "title": "4th in 70 teams at NASA International Space App Challenge Pre-Hackathon - 2018 | Supernova",
+    "url": "https://github.com/ramantehlan/Supernova",
+    "location": "Rohini, Delhi",
+    "timeline": "08/2018",
+    "tag": [
+      "Optical Flow Analysis",
+      "4 people team"
+    ],
+    "about": "Smart AI to keep people safe on beaches from all the dangers. It uses ML and real time data to inform people about UV Index, Weather forecasts, Tsunamis, Harmful Algal Blooms (HABs), Animal Attacks and RIP currents(Using Optical Flow Analysis) etc, all through just one app. "
+  },{
     "id": 2,
     "key": "ac2",
     "title": "Google India Challenge Scholarship Recipient - 2018",
