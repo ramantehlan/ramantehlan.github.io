@@ -1,7 +1,7 @@
 {
   "document": {
     "author": "Raman Tehlan",
-    "title": "Official Page of Raman Tehlan | Hello World!",
+    "title": "Official Page of Raman Tehlan",
     "keywords": "Raman Tehlan ramantehlan Programmer Developer Designer Entrepreneur Resume CV.",
     "description": "Welcome to my tiny space on the internet, here I share about my work, life and everything in between.",
     "language": "English",
@@ -10,6 +10,12 @@
     "googleSiteVerificatin": "aAh3TeaoRYBSS0Wf8WP8EyRV8dV1d6APMbVhmMjnLSk",
     "googleAnalyticsId": "UA-135548412-1",
     "theme": 2
+  },
+  "og": {
+    "title": "Official Page of Raman Tehlan",
+    "type": "website",
+    "url": "http://ramantehlan.github.io",
+    "image": "https://user-images.githubusercontent.com/29037312/66313311-caffb080-e92f-11e9-8271-386ea0c90fe6.png"
   },
   "themes":[
     {
