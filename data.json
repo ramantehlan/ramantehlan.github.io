@@ -54,13 +54,13 @@
   ]
   ,
   "menu": [{
-    "title": "about",
+    "title": "home",
     "to": "/",
-    "display": true,
+    "display": false,
     "icon": "fas fa-user"
   }, {
     "title": "work",
-    "to": "/work",
+    "to": "/",
     "display": true,
     "icon": "fas fa-briefcase"
   }, {
@@ -91,7 +91,7 @@
   },{
     "title": "blog",
     "to": "/blog",
-    "display": true,
+    "display": false,
     "icon": "fas fa-star"
   }, {
     "title": "talks",
@@ -104,7 +104,7 @@
     "display": true,
     "icon": "fa fa-link"
   }],
-  "about": {
+  "home": {
     "title": "Hello There!",
     "body": "Welcome to my tiny space on the internet, here I share about my work, life and everything in between. If you are just interested in my career, feel free to use the above menu and check out more. To know me more personally you can look at my blog and read the passage given below. <Br><BR> I'm Raman Tehlan, I was first introduced to programming at an age of 11.  The first language I used was BASIC, I used it for calculation and to solve simple math problems. By the age of 14, I was comfortable in programming in multiple languages, like C++, BASIC, PHP, JavaScript etc. At 17, I started my first company (<a href='https://github.com/ramantehlan/AlvisAI'>AlvisAi</a>) and at 19, I started my second company (<a href='https://github.com/ramantehlan/Cashfog'>Cashfog</a>), both are open source now. I love to attend hackathons and startup weekends and create new projects. Most of my projects are open source since I am also a FOSS enthusiast, I have contributed to many projects. Right now, I am learning new stuff, also looking for new opportunities to apply them in the real world. <br><br> I see my life as a tool to improve the lives of souls around me, trying to leave something behind. I use technology as my power to achieve that. ",
     "signature": "Regards <br> <b>Raman Tehlan</b>"
@@ -141,9 +141,15 @@
     "link": [{
       "name": "resume",
       "url": "https://drive.google.com/file/d/10aVeMguoBKYiHypRoKK-VxfCa1PvVb3d/view?usp=sharing",
-      "icon": "fas fa-user",
+      "icon": "fas fa-file",
       "label": "Résumé"
     }, {
+      "name": "blog",
+      "url": "/blog",
+      "icon": "fas fa-user",
+      "label": "Blog"
+    },
+     {
       "name": "email",
       "url": "#",
       "icon": "fas fa-inbox",
