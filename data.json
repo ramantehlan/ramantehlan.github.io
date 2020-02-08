@@ -113,7 +113,7 @@
     "name": "Raman Tehlan",
     "image": "https://drive.google.com/uc?export=view&id=1tAbxB98Xg_j_P-C3GH6tT0eXVbi5KBX7",
     "domains": "Engineer | Developer | Designer",
-    "vision": "FOSS enthusiast, Just show me the code, love to attend hackathons and startup weekends, Fan of GNU/Linux, UI/UX and good Engineering, Also a visionary.",
+    "vision": "I love to design and develop beautiful and scalable applications. I am a co-organizer of PyData Delhi and believe in community building and open-source software. Right now, learning data science and philosophy.",
     "url": "https://ramantehlan.github.io",
     "address": {
         "@type": "PostalAddress",
@@ -166,13 +166,29 @@
       "label": "linkedin/in/ramantehlan"
     }]
   },
-  "work": [{
+  "work": [
+   {
+    "id":7,
+    "key": "wo7",
+    "companyName": "Don'tUseThisCode Inc",
+    "companyUrl": "https://seriously.dontusethiscode.com/",
+    "role":"Software Engineer Intern",
+    "location": "Remote",
+    "timeline": "09/2019 - 12/2020",
+    "tag": [
+      "Python",
+      "React",
+      "Docker",
+      "PostgreSql"
+    ],
+    "about": "Worked on the architecture of a SAS application from scratch, with full-stack development using Nodejs, Kafka, Redis, React"
+  },{
     "id":6,
     "key": "wo6",
-    "companyName": "Timeless ",
+    "companyName": "Timeless Co",
     "companyUrl": "http://timeless.co/",
     "role":"Software Engineer Intern",
-    "location": "Delhi, India",
+    "location": "Remote",
     "timeline": "06/2019 - 9/2019",
     "tag": [
       "Golang",
@@ -183,7 +199,7 @@
   },{
     "id": 5,
     "key": "wo5",
-    "companyName": "Udacity",
+    "companyName": "Udacity Inc",
     "companyUrl": "https://www.Udacity.com/",
     "role": "Software Engineer Intern",
     "location": "Delhi, India",
@@ -649,6 +665,13 @@
     "timeline": "05/06/2018"
   }],
   "talks": [{
+    "id": 2,
+    "key": "ta2",
+    "title": "How not to ask questions",
+    "url": "https://www.youtube.com/watch?v=V9HHfMbb3gA&t=54s",
+    "subtitle": "Pydata Delhi - 2019",
+    "timeline": "03/07/2019"
+  }{
     "id": 1,
     "key": "ta1",
     "title": "Everything you should know about Genetic Algorithms",
@@ -794,15 +817,6 @@
     }
   }],
   "courses": [{
-    "id": 5,
-    "key": "co5",
-    "title": "Divide and Conquer, Sorting and Searching, and Randomized Algorithms",
-    "url": "https://www.coursera.org/learn/algorithms-divide-conquer",
-    "from": "Coursera - Stanford University",
-    "timeline": "Ongoing",
-    "about": "",
-    "complete": true
-  }, {
     "id": 4,
     "key": "co4",
     "title": "Fundamentals of Graphic Design",
@@ -870,35 +884,35 @@
       "title": "PyData - Delhi",
       "url": "#",
       "role" : "Core Member",
-      "timeline": "2017 - Present"
+      "timeline": "co-organizer | 2017 - Present"
     },
     {
       "id": 2,
       "key": "cm2",
       "title": "PyLadies - Delhi",
       "url": "#",
-      "timeline": "2018 - 2019"
+      "timeline": "Volunteer | 2018 - 2019"
     },
     {
       "id": 3,
       "key": "cm3",
       "title": "LinuxChix - India",
       "url": "#",
-      "timeline": "2018 - Present"
+      "timeline": "Volunteer | 2018 - 2019"
     },
     {
       "id": 4,
       "key": "cm4",
       "title": "India Linux User Group - Delhi",
       "url": "#",
-      "timeline": "2018 - Present"
+      "timeline": "Volunteer | 2018 - 2019"
     },
     {
       "id": 5,
       "key": "cm5",
       "title": "PyDelhi",
       "url": "#",
-      "timeline": "2017 - 2018"
+      "timeline": "Volunteer | 2017 - 2018"
     }
   ],
   "links": [{
@@ -939,12 +953,6 @@
     "url": "https://news.ycombinator.com/user?id=ramantehlan",
     "icon": "fab fa-hacker-news",
     "title": "news.ycombinator/user?id=ramantehlan"
-  }, {
-    "key": "li4",
-    "name": "facebook",
-    "url": "https://facebook.com/ramantehlan",
-    "icon": "fab fa-facebook",
-    "title": "facebook/ramantehlan"
   }, {
     "key": "li3",
     "name": "instagram",
@@ -1153,6 +1161,9 @@
         "percent": "20"
       }],
       "5": [{
+        "name": "Tmux",
+        "percent": "90"
+        },{
         "name": "micro",
         "percent": "30"
         },{
