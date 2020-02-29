@@ -854,6 +854,10 @@
     "complete": true
   }],
   "contributions": [{
+    "title": "nteract/nteract",
+    "url": "https://github.com/nteract/nteract/commits?author=ramantehlan"
+  },
+  {
     "title": "nteract/play",
     "url": "https://github.com/nteract/play/commits?author=ramantehlan"
   },
