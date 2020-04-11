@@ -19,9 +19,9 @@
   },
   "themes":[
     {
-      "primary": "#685e8e",
-      "background": "#fff",
-      "card": "#FAFBFC",
+      "primary": "#030226",
+      "background": "#f0faff",
+      "card": "#fff",
       "card-border": "#eaeaea",
       "primaryText": "#FFFFFF",
       "backgroundText": "#000000",
@@ -45,8 +45,7 @@
       "primary": "#f252df",
       "background": "#1b264f",
       "card": "#233f82",
-      "primaryText": "#FFFFFF",
-      "backgroundText": "#ffffff",
+      "primaryText": "#FFFFFF", "backgroundText": "#ffffff",
       "backgroundText1": "rgba(255, 255, 255, 0.9)",
       "backgroundText2": "rgba(255, 255, 255, 0.7)",
       "backgroundText3": "rgba(255, 255, 255, 0.5)",
