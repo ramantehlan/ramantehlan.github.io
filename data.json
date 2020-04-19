@@ -169,13 +169,27 @@
   },
   "work": [
    {
+    "id":8,
+    "key": "wo8",
+    "companyName": "Forensic Science Laboratory Delhi",
+    "companyUrl": "http://fsl.delhi.gov.in/",
+    "role":"Software Engineer Intern",
+    "location": "Delhi, India",
+    "timeline": "01/2020 - 03/2020",
+    "tag": [
+      "Python",
+      "Vuejs",
+      "MySql"
+    ],
+    "about": "TBA"
+  },{
     "id":7,
     "key": "wo7",
     "companyName": "Don'tUseThisCode Inc",
     "companyUrl": "https://seriously.dontusethiscode.com/",
-    "role":"Software Engineer Intern",
+    "role":"Consultant",
     "location": "Remote",
-    "timeline": "09/2019 - 12/2020",
+    "timeline": "09/2019 - 12/2019",
     "tag": [
       "Python",
       "React",
