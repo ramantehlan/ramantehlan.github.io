@@ -15,7 +15,7 @@
     "creator": "ramantehlan",
     "title": "Official Page of Raman Tehlan",
     "type": "website",
-    "url": "https://ramantehlan.github.io",
+    "url": "https://ramantehlan.com",
     "image": "https://user-images.githubusercontent.com/29037312/79056188-50fb0c00-7c71-11ea-9d29-cacc670486e0.jpg"
   },
   "themes":[
@@ -115,7 +115,7 @@
     "image": "https://drive.google.com/uc?export=view&id=1tAbxB98Xg_j_P-C3GH6tT0eXVbi5KBX7",
     "domains": "Engineer | Entrepreneur | Designer",
     "vision": "I love to design and develop beautiful and scalable applications. I am a co-organizer of PyData Delhi and believe in community building and open-source software. Right now, learning data science and philosophy.",
-    "url": "https://ramantehlan.github.io",
+    "url": "https://ramantehlan.com",
     "address": {
         "@type": "PostalAddress",
         "streetAddress": "Dwarka",
