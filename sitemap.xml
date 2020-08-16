@@ -2,7 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
- <loc>http://ramantehlan.github.io</loc>
+ <loc>http://ramantehlan.com</loc>
+ <lastmod>2019-03-04</lastmod>
+ <changefreq>weekly</changefreq>
+ <priority>1</priority>
+</url>
+
+<url>
+  <loc>http://ramantehlan.com/#/skills</loc>
+ <lastmod>2019-03-04</lastmod>
+ <changefreq>weekly</changefreq>
+ <priority>1</priority>
+</url>
+
+<url>
+  <loc>http://ramantehlan.com/#/projects</loc>
+ <lastmod>2019-03-04</lastmod>
+ <changefreq>weekly</changefreq>
+ <priority>1</priority>
+</url>
+
+<url>
+  <loc>http://ramantehlan.com/#/achievements</loc>
+ <lastmod>2019-03-04</lastmod>
+ <changefreq>weekly</changefreq>
+ <priority>1</priority>
+</url>
+
+<url>
+  <loc>http://ramantehlan.com/#/contributions</loc>
+ <lastmod>2019-03-04</lastmod>
+ <changefreq>weekly</changefreq>
+ <priority>1</priority>
+</url>
+
+<url>
+  <loc>http://ramantehlan.com/#/education</loc>
+ <lastmod>2019-03-04</lastmod>
+ <changefreq>weekly</changefreq>
+ <priority>1</priority>
+</url>
+
+<url>
+  <loc>http://ramantehlan.com/#/talks</loc>
+ <lastmod>2019-03-04</lastmod>
+ <changefreq>weekly</changefreq>
+ <priority>1</priority>
+</url>
+
+<url>
+  <loc>http://ramantehlan.com/#/links</loc>
  <lastmod>2019-03-04</lastmod>
  <changefreq>weekly</changefreq>
  <priority>1</priority>
