@@ -47,6 +47,17 @@ work:
         email: 
         start_date: "Oct 2020"
         end_date: ""
+        details:  "Developed the Payment services from scratch. Integrated multiple PGs, with status jobs, webhooks, reconciliations, fraud detection, Soft and Hard Block Systems, and Dynamic feature control. 
+
+Designed, Developed a Notification system with the capability to send 20 Million notifications a day. Exposed it with a internal dashboard to to manage it.
+
+Created initial standard documentation for Error Codes, Git best practices, golang and other common modules. 
+
+Created K8S Cluster to Run Data pipelines in Airflow, and hosted Redash instanes to visualize them. Also utilized Hevo and Airbyte to run some pipelines. 
+
+Managed Prometheus to Monitor services, and created Golang library to export the Http metrics, like latencies, RPS etc. Added alerts using alert manager.
+
+Used K6 to do the Load Testing on Kubernetes, and integrated it with Prometheus to store and analyse the results."
     - company:
         name: "Google Summer of Code | NumFOCUS"
         link: "https://summerofcode.withgoogle.com/archive/2020/projects/4967515626668032"
