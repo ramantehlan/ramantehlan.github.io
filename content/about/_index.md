@@ -6,7 +6,7 @@ headless: true
 
 full_name: "Raman Tehlan"
 profile_picture: "me.png"
-#cv: "cv.pdf"
+cv: "cv.pdf"
 resume: "resume.pdf"
 # set to false if you don't want to show your blog
 blog: true
@@ -20,11 +20,11 @@ socials:
     #google_scholar: "YOUR_NAME"
     blog: "Blog"
 
-#interests:
-#    - Data Intensive Systems
-#    - Distributed Systems
-#    - Data Streaming Platforms
-#    - Large-Scale Data Processing Platforms
+interests:
+    - Data Intensive Systems
+    - Distributed Systems
+    - Data Streaming Platforms
+    - Large-Scale Data Processing Platforms
 
 affiliations:
     - affiliation:
