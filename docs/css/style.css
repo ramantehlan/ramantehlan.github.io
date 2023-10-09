@@ -1,6 +1,7 @@
 
 body {
-    font-family: 'Inter', sans-serif;
+    /*font-family: 'Inter', sans-serif;*/
+    font-family: 'Roboto', sans-serif;
     color: #071013;
 }
 
@@ -12,6 +13,8 @@ a:hover {
     text-decoration: underline;
     color: #050517;
 }
+
+
 
 h2 code {
   font-family: Consolas,"courier new";
@@ -68,8 +71,7 @@ h2 code {
 }
 
 #profile_picture  {
-    width: 20%;
-    height: auto;
+    width: 150px;
     margin-top: 1%;
 }
 
@@ -101,8 +103,8 @@ h2 code {
 }
 
 .about #blog_logo {
-    font-size: smaller;
-    margin-top: .2%;
+    font-family: Consolas,"courier new";
+    font-size: large;
 }
 
 .about .academia .degree_major {
@@ -198,10 +200,17 @@ h2 code {
     transition-timing-function: ease-in-out;
 
     border-radius: 50%;
-    background-color: #d64933;
-    color: white;
+    /*background-color: #d64933;*/
+    color: blue;
 }
 
+.project .other_info {
+    font-size: small;
+}
+
+.black{
+    color: black;
+}
 
 .section-title {
     margin-top: 2.5%;
@@ -271,3 +280,4 @@ h2 code {
 .read_more {
     margin-top: 1%;
 }
+
