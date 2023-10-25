@@ -48,7 +48,7 @@ work:
         start_date: "Oct 2020"
         end_date: ""
         details:  "Developed the Payment services from scratch. Integrated multiple PGs, with status jobs, webhooks, reconciliations, fraud detection, Soft and Hard Block Systems, and Dynamic feature control. 
-
+</br>
 Designed, Developed a Notification system with the capability to send 20 Million notifications a day. Exposed it with a internal dashboard to to manage it.
 
 Created initial standard documentation for Error Codes, Git best practices, golang and other common modules. 
