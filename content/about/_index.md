@@ -31,11 +31,11 @@ affiliations:
         title: "Software Engineer"
         link: "https://www.linkedin.com/company/flipkart/"
         name: "StockGro"
-        email: "raman@stockgro.com"
+        email: "ramantehlan[at]gmail[dot]com"
     - affiliation:
         title: "B.Tech"
         name: "SRM University"
-        email: "raman.tehlan16@stu.srmuniversity.ac.in"
+        email: "raman.tehlan16[at]stu[dot]srmuniversity[dot]ac[dot]in"
 
 
 work:

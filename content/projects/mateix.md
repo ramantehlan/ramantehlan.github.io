@@ -1,7 +1,7 @@
 ---
 title: "Mateix"
 
-date: "01-01-2022"
+date: "2022-01-01"
 
 details: "Tool to bi-directional synchronize two folders in two different devices, with
 auto-detection of change in the file."

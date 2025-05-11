@@ -1,7 +1,7 @@
 ---
 title: "Cashfog"
 
-date: "01-01-2016"
+date: "2016-01-01"
 
 details: "Developed business transaction maintainer; Analysis and Visualization tools with
 cloud storage for documents; Multi-languages, themes, files operations supported;"

@@ -1,7 +1,7 @@
 ---
 title: "RedisAnt"
 
-date: "01-01-2022"
+date: "2022-01-01"
 
 details: "RedisAnt maintains your client-side cache end-to-end at the speed of light. It connects with your MongoDB database and automatically ingests the requested data in your local cache and keeps the cache fresh as a daisy."
 link: redis-ant
